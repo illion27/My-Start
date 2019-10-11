@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##初次见面请多关照
 
 You can use the [editor on GitHub](https://github.com/illion27/My-Start/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
